@@ -1,7 +1,7 @@
 <template>
   <div class="notice">
     <div class="notice__content">
-      <a href="https://www.snipcart.com" class="notice__link">← Snipcart.com</a>
+      <a href="https://www.larryslentils.com" class="notice__link">← larryslentils.com</a>
       <div class="notice__title">{{title}}</div>
     </div>
   </div>

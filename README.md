@@ -16,3 +16,11 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+
+## NOTE
+May have to use:
+
+```
+ NODE_OPTIONS=--openssl-legacy-provider npm run dev
+```
+

@@ -3,15 +3,17 @@
     <div class="footer__container">
       <div class="footer__copy">{{$t('footer_text')}}</div>
       <div class="footer__socials">
-        <a href="https://twitter.com/snipcart">
+        <a href="https://twitter.com/DeliverHealthyU">
           <Twitter class="footer__icon" />
         </a>
-        <a href="https://www.facebook.com/Snipcart/">
+        <a href="https://www.facebook.com/deliverhealthy/">
           <Facebook class="footer__icon" />
         </a>
+<!--
         <a href="https://github.com/snipcart/snipcart-demo-v3">
           <Github class="footer__icon" />
         </a>
+-->
       </div>
     </div>
   </div>

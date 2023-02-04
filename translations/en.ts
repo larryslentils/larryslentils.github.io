@@ -1,7 +1,7 @@
 export default {
-  title: 'ReplicaZone',
-  full_title: 'ReplicaZone - Snipcart Demo',
-  notice: 'Snipcart-powered demo store.',
+  title: 'Deliver Healthy Frictionless Markets',
+  full_title: 'Deliver Healthy Frictionless Markets - featuring Larrys Lentils & Friends',
+  notice: 'DHFM membership store.',
   my_account: 'My account',
   login: 'Login',
   quantity: 'QUANTITY',
@@ -10,5 +10,5 @@ export default {
   digital_copy: 'Digital copy (.jpeg)',
   add_to_cart: 'Add to cart',
   subscribe: 'subscribe',
-  footer_text: 'Nuxt.js static site with Snipcart e-commerce.'
+  footer_text: 'Deliver Healthy Frictionless Markets. Taste Power.'
 }
