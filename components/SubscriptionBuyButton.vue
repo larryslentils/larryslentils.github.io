@@ -8,7 +8,7 @@
             class="product__button snipcart-add-item"
             :data-item-id="product.id"
             :data-item-price="product.prices.physical"
-            data-item-url="https://demo.snipcart.com/"
+            data-item-url="https://store.larryslentils.com/"
             :data-item-description="product.description"
             :data-item-image="product.image"
             :data-item-name="product.name"
