@@ -35,7 +35,7 @@
           :class="'product__button snipcart-add-item ' + digitalButtonClasses"
           :data-item-id="`${product.id}-digital`"
           :data-item-price="product.prices.digital"
-          data-item-url="https://demo.snipcart.com/"
+          data-item-url="https://store.larryslentils.com/"
           :data-item-description="product.description"
           :data-item-image="product.image"
           :data-item-name="`${product.name} (.jpg)`"
